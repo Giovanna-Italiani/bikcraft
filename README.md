@@ -4,7 +4,7 @@
 
 # :closed_book: Objetivo do projeto:
 
-Este projeto teve como principal objetivo desenvolver os conhecimento técnicos de suas respectivas linguagens.
+Este projeto teve como principal objetivo desenvolver os conhecimentos técnicos de suas respectivas linguagens.
 
 
 # :link: Acesso ao projeto
